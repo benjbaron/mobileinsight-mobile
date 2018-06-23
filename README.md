@@ -195,7 +195,7 @@ Then, you can follow the usage guide and compile the application. Basically, you
 
 ```
 make dist
-make app_debug
+make apk_debug
 ```
 
 
